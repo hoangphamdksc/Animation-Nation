@@ -6526,6 +6526,13 @@ let cards = [
     author: 'Marion',
     githubLink: 'https://github.com/marionjudy13'
   },
+  {
+    artName: 'animationW3School',
+    pageLink: './Art/AnimationHP/index.html',
+    imageLink: './Art/AnimationHP/index.gif',
+    author: 'hoangpham',
+    githubLink: 'https://github.com/hoangphamdksc'
+  }
 ];
 
 // +--------------------------------------------------------------------------------+
